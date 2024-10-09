@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "back2buy-shop"
-  }
+    "default": "angular-ecommerce-927d9",
+    "main": "angular-ecommerce-927d9"
+  },
+  "targets": {},
+  "etags": {}
 }
